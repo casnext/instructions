@@ -1,0 +1,10 @@
+1º intalar git https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+2º criar novo repositorio no github
+
+3º clicar com botao direito dentro da pastas que ira subir  abrir no terminal e digitar "git init"
+
+4º ver a selecao …or push an existing repository from the command line
+
+5º git remote add origin "link do git"
+
